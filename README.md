@@ -2,7 +2,16 @@
 
 A little lane defense game. Build a team of skyward defenders and protect the beacon from waves of cloud enemies.
 
-**Play:** [Skyward Siege on GitHub Pages](https://brandozhong67-cell.github.io/skyward-siege/skyward-siege.html)
+## Play online
+
+- [Play Skyward Siege on Netlify](https://skywardsiege.netlify.app/)
+- [Play the GitHub Pages version](https://brandozhong67-cell.github.io/skyward-siege/skyward-siege.html)
+
+## Local download
+
+You can also download the standalone HTML game from [GitHub](https://github.com/brandozhong67-cell/skyward-siege/raw/refs/heads/main/skyward-siege.html) and open it in a browser. A local copy is a snapshot: it does not update itself. Download the latest game file again whenever an update is released.
+
+[GitHub repository and source code](https://github.com/brandozhong67-cell/skyward-siege)
 
 ## Goal
 
