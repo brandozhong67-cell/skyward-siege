@@ -15,6 +15,8 @@ Stop enemies from reaching the beacon. If too many get through, the beacon loses
 4. Place at least one defender, then start the wave. Defenders automatically attack enemies in range.
 5. Earn coins and XP as you fight. Spend coins on more defenders, upgrades, and power-ups; earn XP to unlock more defenders.
 6. Between or during waves, pause to plan, change game speed, or adjust a selected defender.
+
+Turn on **Auto-start waves** in the Incoming panel to begin the next wave automatically after a 3-second countdown when the current wave is cleared. Turn it off whenever you want to start waves manually.
 ## Placement and tower controls
 Defenders must be placed on open ground beside the trail: not on the trail, not too far away to reach enemies, and with space between other defenders. On **Cinder Volcano**, avoid the glowing magma vents; eruptions can damage nearby units.
 Click a placed defender to select it. You can upgrade it, sell it, or change its targeting priority among **First**, **Strongest**, and **Closest**. Each defender can be upgraded up to three times. Hover over an open patch to preview the defender's attack range; red indicates an invalid spot.
