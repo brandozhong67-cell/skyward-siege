@@ -23,19 +23,6 @@ Stop enemies from reaching the beacon. Each enemy that gets through costs 5 beac
 
 Every fifth wave is a boss wave. After wave 50, Tower Breakers can attack nearby defenders. Enemy health and speed increase over time. On Cinder Volcano, glowing vents warn before eruptions that can damage nearby units.
 
-## Language options
-
-Choose English, Spanish, French, or Chinese from the header selector. The game translates its menus, map and difficulty names, wave brief, and key controls immediately. Defender names stay as shown in the game.
-
-## Tower upgrade paths
-
-Upgrade a defender twice for general range and damage improvements, then choose one final specialization for 165 coins:
-
-- **Longshot** — adds substantial range and a small damage boost.
-- **Rapidfire** — shortens reload time and adds a small damage boost.
-
-Each defender can take only one specialization. The chosen path and tower stats appear in the Selected tower panel.
-
 ## New enemy types
 
 - **Swiftlings** arrive from wave 4. They move quickly and have less health.
@@ -70,11 +57,10 @@ Click a placed defender to upgrade it, choose its targeting priority (**First**,
 - **Moonlit Marsh** — winding marsh trail
 - **Cinder Volcano** — volcanic route with erupting vents
 - **Frostfall Pass** — icy switchback route
-- **Frostfall Pass** — icy switchback route
 
 ## Language options
 
-Choose English, Spanish, French, or Chinese from the language selector in the header. The main menus, map and difficulty choices, wave brief, and key controls switch languages immediately. Tower names remain their in-game names.
+Choose English, Spanish, French, or Simplified Chinese (简体中文) from the language selector in the header. The main menus, map and difficulty choices, wave brief, and key controls switch languages immediately. Tower names remain their in-game names.
 
 ## Power-ups, sound, and music
 
@@ -84,9 +70,9 @@ Use the **Sound** and **Music** buttons in the Incoming panel to toggle synthesi
 
 ## Save and load
 
-Use **Save** between waves to store a checkpoint in this browser. The game also saves checkpoints after cleared waves and when you place, upgrade, or sell defenders. Choose **Load** to restore your latest saved wave, map, currency, defenders, and upgrades. Checkpoints are saved in this browser after cleared waves and after tower placement, upgrades, and sales. Saves are stored locally in the browser and do not transfer to another device or browser.
+Use **Save** between waves to store a checkpoint in this browser. The game also saves checkpoints after cleared waves and when you place, upgrade, or sell defenders. Choose **Load** to restore your latest saved wave, map, currency, defenders, and upgrades. Saves are stored locally in the browser and do not transfer to another device or browser.
 
-The **Auto-start waves** button starts each next wave after a short countdown. It can be toggled at any time and pauses while Dev Mode is enabled. Dev Mode does not automatically start waves; use the regular **Start wave** button.
+The **Auto-start waves** button starts each next wave after a short countdown. It works in Dev Mode too. Turn it on to automatically begin the next wave after each wave clears, or leave it off and use **Start wave** manually. Dev Mode itself never turns auto-start on.
 
 ## Progress
 
