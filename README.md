@@ -35,7 +35,9 @@ Click a placed defender to upgrade it, choose its targeting priority (**First**,
 - **Cinder Volcano** — volcanic route with erupting vents
 - **Frostfall Pass** — icy switchback route
 ## Language options
-Choose English, Spanish, French, Simplified Chinese (简体中文), German, Portuguese, or Japanese from the language selector in the header. The main menus, controls, map and difficulty choices, wave brief, and key gameplay guidance switch languages immediately. Tower names remain their in-game names; text without a translation uses English.
+Choose from 27 languages in the header: English, Spanish, French, Simplified Chinese (简体中文), German, Portuguese, Japanese, Arabic, Bengali, Hindi, Indonesian, Italian, Korean, Russian, Turkish, Urdu, Vietnamese, Thai, Dutch, Polish, Persian, Malay, Tamil, Telugu, Ukrainian, Filipino, and Swahili.
+
+On desktop Chrome versions that support [Chrome's built-in Translator API](https://developer.chrome.com/docs/ai/translator-api), selecting a language translates the visible game interface, including dynamically updated controls and canvas labels. Chrome downloads the on-device language model the first time it is needed. The language picker keeps language names in their native form, and the game title stays unchanged. Chrome's built-in translator does not work on mobile; browsers without the API use the game's included translations, so some text may remain in English. Urdu, Persian, Malay, Filipino, and Swahili currently rely on the included translations and may also show English text.
 ## Power-ups, sound, and music
 Power-ups cost coins. Some are one-use effects, such as a repair, coin cache, freeze, or blast. Others last for several waves and improve range, damage, firing speed, protection, or repairs. Some unlock only after reaching a later wave. Their costs and effects are listed in the game. Use the **Sound** and **Music** buttons in the Incoming panel to toggle synthesized sound effects and background music. Both start off so the game is quiet until you turn them on.
 ## Save and load
