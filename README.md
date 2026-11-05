@@ -43,4 +43,4 @@ Power-ups cost coins. Some are one-use effects, such as a repair, coin cache, fr
 ## Save and load
 Use **Save** between waves to store a checkpoint in this browser. The game also saves checkpoints after cleared waves and when you place, upgrade, or sell defenders. Choose **Load** to restore your latest saved wave, map, currency, defenders, and upgrades. Saves are stored locally in the browser and do not transfer to another device or browser.
 ## Auto-start waves
-Turn on **Auto-start waves** in the Incoming panel to begin the next wave automatically after a 3-second countdown when the current wave is cleared. It works in Dev Mode too, but Dev Mode does not turn it on automatically. Turn auto-start off whenever you want to begin waves manually.
+Turn on **Auto-start waves** in the Incoming panel to begin the next wave automatically after a 3-second countdown when the current wave is cleared. Turn auto-start off whenever you want to begin waves manually.
