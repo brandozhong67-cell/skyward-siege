@@ -7,7 +7,7 @@ Download the [standalone HTML game](https://github.com/brandozhong67-cell/skywar
 ## Goal and basic rules
 Stop enemies from reaching the beacon. Each enemy that gets through costs 5 beacon health. Keep the beacon standing through increasingly difficult waves.
 1. Choose a map and difficulty, then select **Start defending**.
-2. Pick a defender from the list and click an open patch beside the trail to place it. Defenders need to be close enough to reach enemies, with space between each other.
+2. Pick a defender from the list and click a glowing square beside the trail to place it. Squares mark valid build positions and appear on every map. Defenders need to be close enough to reach enemies, with space between each other.
 3. Place at least one defender and start the wave. Defenders automatically attack enemies in range.
 4. Earn coins from defeated enemies and wave-clear bonuses. Spend coins on defenders, upgrades, and power-ups. Earn XP to unlock more defenders.
 5. Pause, change game speed, or adjust a selected defender between or during waves.
